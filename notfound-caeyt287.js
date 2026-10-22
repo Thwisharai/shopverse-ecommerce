@@ -1,0 +1,1 @@
+import{j as e,L as o}from"./index-DXVvScw_.js";function s(){return e.jsxs("section",{className:"container section center",children:[e.jsx("h1",{children:"404 – Page not found"}),e.jsx("p",{className:"muted",children:"The page you are looking for does not exist."}),e.jsx(o,{to:"/",className:"btn",children:"Go home"})]})}export{s as default};
